@@ -54,13 +54,13 @@ You will also learn how to access their attributes and values, and manipulate th
 The dataset comprises customer data related to their vehicle insurance policies. It provides details about both the customers and the specific insurance coverage they've opted for. This data an be explored to segment similar kinds of customers.
 
 ### Content
-This dataset provides socio-economic information of customers alongside details of their insured vehicles.  The data contains both categorical and numerical variables. The "Customer Lifetime Value" (CLV) has also been provided, which is derived from historical data. This is essential in understanding the customer purchase behavior.
+**This dataset provides socio-economic information of customers** alongside details of their insured vehicles.  The data contains both **categorical and numerical variables.** The "Customer Lifetime Value" (CLV) has also been provided, which is derived from historical data. This is essential in understanding the customer purchase behavior.
 
 ### Acknowledgements
 UCI ML repository
 
 ### Inspiration
-The data is useful for clustering customers according to their behavior, thereby enabling targeted marketing of a new insurance policy. This helps pre-estimating a budget for marketing expenses.
+**The data is useful for clustering customers according to their behavior,** thereby enabling targeted marketing of a new insurance policy. This helps pre-estimating a budget for marketing expenses.
 
 ### Data Description
 
@@ -72,7 +72,7 @@ The data is useful for clustering customers according to their behavior, thereby
 
 - Education: Background education of customers.
 
-- Customer Lifetime Value: Customer Lifetime Value (CLV) is the total revenue the client will derive from their entire relationship with a customer. In other words, it is the predicted or calculated value of a customer over their entire duration as a policyholder with the insurance company. It is an estimation of the net profit that the insurance company expects to generate from a customer throughout their relationship with the company. CLV takes into account factors such as the duration of the customer's policy, premium payments, claim history, renewal likelihood, and potential additional services or products the customer may purchase. It helps insurers assess the long-term profitability and value associated with retaining a particular customer.
+- Customer Lifetime Value: Customer Lifetime Value (CLV) is the total revenue the client will derive from their entire relationship with a customer. In other words, it is the predicted or calculated value of a customer over their entire duration as a policyholder with the insurance company. It is an estimation of the net profit that the insurance company expects to generate from a customer throughout their relationship with the company. **CLV takes into account factors such as the duration of the customer's policy, premium payments, claim history, renewal likelihood, and potential additional services or products the customer may purchase.** It helps insurers assess the long-term profitability and value associated with retaining a particular customer.
 
 - Income: Customer's earnings.
 
